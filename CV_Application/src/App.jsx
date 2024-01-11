@@ -6,9 +6,9 @@ import Section from './components/section';
 function App() {
   return (
     <>
-      <Section className={"section"}>
+      <Section>
         <InputComponent label="" type="text" placeholderText="Your Name" inputSetting="heading"/>
-        <div style={{display:"flex", flexDirection:"row"}} className={"section"}>
+        <div style={{display:"flex", flexDirection:"row"}}>
           <InputComponent label="Adress1" type="text" placeholderText='Adress Line 1'/>
           <InputComponent label="Adress2" type="text" placeholderText="Adress Line 2"/>
           <InputComponent label="Phone" type="phone" placeholderText="01627168337"/>

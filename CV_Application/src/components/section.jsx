@@ -2,7 +2,7 @@ import "../styles/App.css"
 
 function Section( {children}) {
     return(
-        <div>
+        <div className={"section"}>
             {children}
         </div>
     );
