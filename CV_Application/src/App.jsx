@@ -11,7 +11,7 @@ function App() {
         <div style={{display:"flex", flexDirection:"row"}}>
           <InputComponent label="Adress1" type="text" placeholderText='Adress Line 1'/>
           <InputComponent label="Adress2" type="text" placeholderText="Adress Line 2"/>
-          <InputComponent label="Phone" type="phone" placeholderText="01627168337"/>
+          <InputComponent label="Phone" type="phone" placeholderText="99 9999 9999"/>
           <InputComponent label="Email" type="email" placeholderText="myemail@email.com"/>
         </div>
       </Section>
