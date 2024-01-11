@@ -9,7 +9,7 @@ const labels = {
     },
     "Edu" : {
         "firstLabel":"Degree",
-        "secondLabel":"Univsersity",
+        "secondLabel":"University",
         "thirdLabel":"Date"
     }
 }
